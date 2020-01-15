@@ -19,7 +19,7 @@ Explanations coming soon.
     cd my-app
     ```
   - [ ] Install the deps `npm i`
-  - [ ] Install `pm2` and `es-dev-server` globally
+  - [ ] Install `pm2` and `es-dev-server` globally.
 
 - Pre-configuration
   - [ ] Update the server options under `src/server/options.ts`
