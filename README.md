@@ -13,12 +13,12 @@ Explanations coming soon.
 ## Installation/Initialisation
 
 - Installation
-  - [ ] Clone this repo
+  - [x] Clone this repo
     ```bash
     git clone --depth 1 https://github.com/vdegenne/typescript-fullstack-project-starter my-app
     cd my-app
     ```
-  - [x] Install the deps `npm i`
+  - [ ] Install the deps `npm i`
   - [ ] Install `pm2` and `es-dev-server` globally
 
 - Server
