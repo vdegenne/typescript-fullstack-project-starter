@@ -18,7 +18,7 @@ Explanations coming soon.
     git clone --depth 1 https://github.com/vdegenne/typescript-fullstack-project-starter my-app
     cd my-app
     ```
-  - [ ] Install the deps `npm i`
+  - [x] Install the deps `npm i`
   - [ ] Install `pm2` and `es-dev-server` globally
 
 - Server
