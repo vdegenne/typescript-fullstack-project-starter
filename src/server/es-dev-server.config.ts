@@ -1,4 +1,4 @@
-import {port, publicDir} from './vars';
+import {port, publicDir} from './options';
 
 export default {
   port: port,
