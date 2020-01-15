@@ -2,8 +2,8 @@
 
 This package includes the following technos :
 
-- compilation: `typescript`, `rollup`.
-- server: `es-dev-server`, `koa`.
-- front: `lit-element`, `@material` elements.
+- compilation: `typescript`, `rollup`
+- server: `pm2`, `es-dev-server`, `koa`
+- front: `lit-element`, `@material` elements
 
 - [ ]
