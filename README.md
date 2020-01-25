@@ -15,15 +15,17 @@ Explanations coming soon.
 - Installation
   - [x] Clone this repository
     ```bash
-    git clone --depth 1 https://github.com/vdegenne/typescript-fullstack-project-starter my-app
+    git clone --depth 1 https://github.com/vdegenne/typescript-fullstack-project-starter
+    mv typescript-fullstack-project-starter my-app
     cd my-app
+    rm -rf .git
     ```
   - [ ] Install the deps `npm i`
   - [ ] Install `pm2` and `es-dev-server` globally.
 
 - Pre-configuration
   - [ ] Update the server options under `src/server/options.ts`
-  - [ ] Build the initial state of the server (required) `npm run build`
+  - [ ] Watch for file changes (required to run the server) `npm run watch`
   - [ ] Modify the pm2 name in `pm2.config.js`
   - [ ] Start the server `pm2 start pm2.config.js`
 
