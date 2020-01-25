@@ -26,7 +26,7 @@ Explanations coming soon.
 - Pre-configuration
   - [ ] Update the server options under `src/server/options.ts`
   - [ ] Watch for file changes (required to run the server) `npm run watch`
-  - [ ] Modify the pm2 name in `pm2.config.js`
+  - [ ] Modify the app name in `pm2.config.js` & `public/index.html`
   - [ ] Start the server `pm2 start pm2.config.js`
 
 - Development
